@@ -1,6 +1,6 @@
-package ch02.fibonacci
+package ch02
 
-object Fibonacci extends App {
+object exercise01 extends App {
 
   def fib(n: Int): Int = {
     if(n <= 1) n
